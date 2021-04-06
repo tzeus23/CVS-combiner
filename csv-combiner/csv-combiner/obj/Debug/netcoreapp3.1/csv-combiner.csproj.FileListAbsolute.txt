@@ -1,0 +1,13 @@
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\obj\Debug\netcoreapp3.1\csv-combiner.csprojAssemblyReference.cache
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\obj\Debug\netcoreapp3.1\csv-combiner.AssemblyInfoInputs.cache
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\obj\Debug\netcoreapp3.1\csv-combiner.AssemblyInfo.cs
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\obj\Debug\netcoreapp3.1\csv-combiner.csproj.CoreCompileInputs.cache
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\bin\Debug\netcoreapp3.1\csv-combiner.exe
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\bin\Debug\netcoreapp3.1\csv-combiner.deps.json
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\bin\Debug\netcoreapp3.1\csv-combiner.runtimeconfig.json
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\bin\Debug\netcoreapp3.1\csv-combiner.runtimeconfig.dev.json
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\bin\Debug\netcoreapp3.1\csv-combiner.dll
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\bin\Debug\netcoreapp3.1\csv-combiner.pdb
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\obj\Debug\netcoreapp3.1\csv-combiner.dll
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\obj\Debug\netcoreapp3.1\csv-combiner.pdb
+C:\Users\tzuri\Desktop\csv-combiner\csv-combiner\obj\Debug\netcoreapp3.1\csv-combiner.genruntimeconfig.cache
